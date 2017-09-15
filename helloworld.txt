@@ -1,8 +1,8 @@
 void main()
 {
-	char buff[64]={"abcdefg"};
-	float ff = 7.000000;
-	double dd = 7.000000000000;
+	char buff[64]={"bbbbabcdefg"};
+	float ff = 10.000000;
+	double dd = 10.000000000000;
 	printf("c hello!\n");
 }
 
