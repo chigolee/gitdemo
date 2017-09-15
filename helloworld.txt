@@ -1,4 +1,10 @@
+void printt()
+{
+	printf("c printf!\n");
+}
 void main()
 {
+	printt();
 	printf("c hello!\n");
 }
+
