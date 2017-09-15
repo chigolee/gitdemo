@@ -4,6 +4,7 @@ void printt()
 }
 void main()
 {
+	int a[3]={0};
 	printt();
 	printf("c hello!\n");
 }
