@@ -1,15 +1,9 @@
 void show()
 {
-	printf("start C happy!\n");
-}
-void printt()
-{
-	printf("heihei!\n");
+	printf("C printf!\n");
 }
 void main()
 {
-	printt();
-	show();
 	printf("c hello!\n");
 }
 
