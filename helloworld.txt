@@ -1,11 +1,15 @@
+void show()
+{
+	printf("start C happy!\n");
+}
 void printt()
 {
-	printf("c printf!\n");
+	printf("heihei!\n");
 }
 void main()
 {
-	int a[3]={0};
 	printt();
+	show();
 	printf("c hello!\n");
 }
 
