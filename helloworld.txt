@@ -1,9 +1,8 @@
-void show()
-{
-	printf("C printf!\n");
-}
 void main()
 {
+	char buff[64]={"abcdefg"};
+	float ff = 7.000000;
+	double dd = 7.000000000000;
 	printf("c hello!\n");
 }
 
